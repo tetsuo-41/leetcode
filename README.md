@@ -1,6 +1,6 @@
 # 📘 LeetCode Study Log
 
-This is my personal study log as I prepare for software engineering interviews at global tech companies.  
+This is my personal study log as I prepare for software engineering interviews.  
 I'm solving top LeetCode problems and documenting my thinking process in both English and Japanese to improve my coding and communication skills.
 
 ---
