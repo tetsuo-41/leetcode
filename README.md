@@ -23,8 +23,6 @@ I'm solving top LeetCode problems and documenting my thinking process in both En
 
 ## ✅ Goal
 
-- Complete Blind 75
-- Solve additional Top Interview / Google / Amazon lists
 - Summarize **approaches & key patterns**
 - Practice explaining solutions aloud in English
 - Build habits of clean code & clear explanation
