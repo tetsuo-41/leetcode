@@ -1,4 +1,4 @@
-# 🧩 問題名: [128. Longest Consecutive Sequence]
+# 🧩 問題名: [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 
 ## 📝 問題概要
 
