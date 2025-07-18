@@ -1,0 +1,1 @@
+# [0005の類題](https://github.com/tetsuo-41/leetcode/tree/main/blind75/medium/0005_longest_palindromic_substring)
