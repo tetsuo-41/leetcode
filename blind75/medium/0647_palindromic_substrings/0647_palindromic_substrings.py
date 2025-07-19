@@ -1,4 +1,4 @@
-# LeetCode 5. Longest Palindromic Substring
+# LeetCode 5. Palindromic Substrings
 # Difficulty: Medium
 # Runtime: 163ms, Beats 66.58%/ Memory: 12.37MB, Beats 90.35%
 
