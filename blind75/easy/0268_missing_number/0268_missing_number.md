@@ -37,5 +37,5 @@ Explanation: n = 9 のとき、範囲 [0, 9] にあるべき数は 0〜9。8 が
  - 同様のパターンは「重複なし・ちょうど1個欠けている・範囲が連続」という条件で使える。
 
 ## 📈 提出結果
- • Runtime: 37ms (Beats 57.74%)  
- • Memory: 19.46MB (Beats 85.30%)
+ • Runtime: 0ms (Beats 100.00%)  
+ • Memory: 13.42MB (Beats 29.99%)
