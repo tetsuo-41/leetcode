@@ -1,6 +1,6 @@
 # LeetCode 23. Merge k Sorted Lists
 # Difficulty: Hard
-# Runtime: 0ms, Beats 100.00%/ Memory: 12.42MB, Beats 75.53%
+# Runtime: 11ms, Beats 95.42%/ Memory: 18.12MB, Beats 72.59%
 
 # Definition for singly-linked list.
 # class ListNode(object):

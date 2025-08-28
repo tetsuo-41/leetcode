@@ -49,6 +49,6 @@ Output: [1,1,2,3,4,4,5,6]
 ---
 
 ## 📈 提出結果（例）
-- Runtime: 92ms (Beats 78.45%)  
-- Memory: 19.1MB (Beats 84.23%)  
+- Runtime: 11ms (Beats 95.42%)  
+- Memory: 18.12B (Beats 72.59%)  
 
