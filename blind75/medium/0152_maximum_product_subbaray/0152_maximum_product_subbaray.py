@@ -1,5 +1,5 @@
 # LeetCode 152. Maximum Product Subarray
-# Difficulty: Hard
+# Difficulty: Medium
 # Runtime: 10ms, Beats 61.45%/ Memory: 13.15MB, Beats 53.16%
 
 class Solution(object):
