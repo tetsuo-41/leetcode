@@ -1,5 +1,5 @@
 # LeetCode 153. Find Minimum in Rotated Sorted Array
-# Difficulty: Hard
+# Difficulty: Medium
 # Runtime: 1ms, Beats 9.25%/ Memory: 12.42MB, Beats 92.00%
 
 class Solution(object):
