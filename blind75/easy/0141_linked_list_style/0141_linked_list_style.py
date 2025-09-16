@@ -1,5 +1,5 @@
-# LeetCode 141. Linked List Style
-# Difficulty: Medium
+# LeetCode 141. Linked List Cycle
+# Difficulty: Easy
 # Runtime: 37ms, Beats 57.74%/ Memory: 19.46MB, Beats 85.30%
 
 
