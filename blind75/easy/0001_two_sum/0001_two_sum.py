@@ -1,4 +1,4 @@
-# LeetCode 1. Longest Consecutive Sequence
+# LeetCode 1. Two Sum
 # Difficulty: Easy
 # Runtime: 0ms, Beats 100.00%/ Memory: 13.15MB, Beats 61.10%
 
