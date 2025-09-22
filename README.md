@@ -34,7 +34,7 @@ I'm solving top LeetCode problems and documenting my thinking process in both En
 ```
 blind75/
   medium/
-    two_sum.py       ← Code
+    two_sum.py       ← CODE
     two_sum.md       ← 解説・考え方
 ```
 
@@ -60,6 +60,6 @@ blind75/
 ## 🙌 Contact
 
 If you’re also preparing for interviews, feel free to connect!
-GitHub: [https://github.com/tetsuo-41]
-X: [https://x.com/tetsuo__41?s=21]
+- GitHub: [https://github.com/tetsuo-41]
+- X: [https://x.com/tetsuo__41?s=21]
 
