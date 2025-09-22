@@ -34,7 +34,7 @@ I'm solving top LeetCode problems and documenting my thinking process in both En
 ```
 blind75/
   medium/
-    two_sum.py
+    two_sum.py       ← Code
     two_sum.md       ← 解説・考え方
 ```
 
@@ -53,7 +53,7 @@ blind75/
 
 - Python 3.9
 - LeetCode
-- Git / GitHub
+- GitHub
 
 ---
 
