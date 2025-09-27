@@ -1,4 +1,4 @@
-# LeetCode 62. Unique Paths
+# LeetCode 191. Number of 1 Bits
 # Difficulty: Easy
 # Runtime: 0ms, Beats 100.00%/ Memory: 12.52MB, Beats 9.27%
 
