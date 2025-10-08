@@ -1,4 +1,4 @@
-# LeetCode 98. Validate Binary Search Tree
+# LeetCode 226. Invert Binary Tree
 # Difficulty: Medium
 # Runtime: 0ms, Beats 100.00%/ Memory: 12.59MB, Beats 30.85%
 
