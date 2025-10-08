@@ -1,5 +1,5 @@
 # LeetCode 226. Invert Binary Tree
-# Difficulty: Medium
+# Difficulty: Easy
 # Runtime: 0ms, Beats 100.00%/ Memory: 12.59MB, Beats 30.85%
 
 # Definition for a binary tree node.
