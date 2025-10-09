@@ -1,4 +1,4 @@
-# LeetCode 100. Same Tree
+# LeetCode 1143. Longest Common Subsequence
 # Difficulty: Medium
 # Runtime: 527ms, Beats 74.00%/ Memory: 33.56MB, Beats 74.44%
 
